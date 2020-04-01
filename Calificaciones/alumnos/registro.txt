@@ -1,0 +1,6 @@
+Andres 8.5
+mario 8.5
+Andres 9
+Daniel 8.25
+Isaac 7.5
+Ivan 7.25
